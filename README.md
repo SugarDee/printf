@@ -18,4 +18,4 @@ The functions printf , which accept numerous arguments, are well known as variab
  This process of coping characters and conversion of arguments repeats until the string is terminated to last NULL character. For simplicity we have implemented only c, s,, d, i, u, o, x formatting cases.Thus the output string prints in the actual console. _printf() then returns the number of characters which is printed in the console and exit the function.
  
  this project was created by #### SugarDee and Augustine-ebuka
- thank you for reading!
+ thank you for reading and enjoy your day.
